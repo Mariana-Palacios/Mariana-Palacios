@@ -25,4 +25,6 @@ Devoted to programming for three years, I've spent the last six months applying 
 
 ### Badges
 
-<a href="https://github.com/Mariana-Palacios" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-Palacios&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Mariana-Palacios"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariana-Palacios&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
