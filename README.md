@@ -10,7 +10,6 @@ Full Stack Developer
 Devoted to programming for three years, I've spent the last 7 months applying my knowledge in the professional arena, transitioning from frontend exploration to full stack development.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [marianacode.com](http://marianacode.com)
 * ✉️  You can contact me at [marianapcode@gmail.com](mailto:marianapcode@gmail.com)
 * 🧠  I'm learning AWS
 
