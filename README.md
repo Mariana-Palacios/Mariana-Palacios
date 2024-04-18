@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer <3
 --------------------
 
-Devoted to programming for three years, I've spent the last 7 months applying my knowledge in the professional arena, transitioning from frontend exploration to full stack development.
+Devoted to programming transitioning from frontend exploration to full stack development.
 
 * ✉️  You can contact me at [marianapcode@gmail.com](mailto:marianapcode@gmail.com)
 * 🧠  I'm learning AWS
