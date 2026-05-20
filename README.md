@@ -22,7 +22,6 @@ Currently open to new opportunities in backend/AI engineering.
 ### 📌 Things I've built
 
 - 🧠 A **multi-tenant multi-agent AI platform** with dynamic request routing and semantic RAG retrieval
-- 🔐 A full **PKI security architecture** (X.509, CRL/OCSP, RFC 3161 timestamping, PyHanko signing)
 - 📊 **Real-time metrics dashboards** via Server-Sent Events with FastAPI + Next.js
 - 🏆 A **tournament management system** using Factory Pattern for multiple competition formats
 
